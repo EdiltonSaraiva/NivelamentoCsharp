@@ -14,6 +14,7 @@ Os projetos abordam conceitos como:
 ```
 src/
 ├── CalculadoraSimples/
+├── SwitchCase/
 ├── ...
 ```
 
