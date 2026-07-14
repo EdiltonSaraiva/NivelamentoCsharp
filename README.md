@@ -19,7 +19,7 @@ src/
 ├── ...
 ```
 
-Cada pasta representa um projeto independente.
+Cada pasta representa um conceito de programação ou um projeto independente.
 
 ---
 
