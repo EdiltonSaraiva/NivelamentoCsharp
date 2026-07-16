@@ -52,7 +52,7 @@ Cada pasta representa um conceito de programação ou um projeto independente.
 
 - C#
 - .NET
-- Visual Studio 2022
+- Visual Studio 2026
 - Git
 - GitHub
 
