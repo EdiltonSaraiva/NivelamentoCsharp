@@ -1,4 +1,4 @@
-﻿using System.Security.Authentication;
+using System.Security.Authentication;
 
 namespace ListaDeComprasInteligente;
 
@@ -130,16 +130,6 @@ public class Program
 
                         if (ListaDeCompras.Count > 0)
                         {
-                            //ContaItens = 1;
-                            //Console.Write(MensagemComprasConcluidas);
-
-                            //foreach (string ItemComprado in ComprasConcluidas)
-                            //{
-                            //    Console.WriteLine($" - {ItemComprado}");
-                            //    ContaItens++;
-                            //}
-                            //Console.WriteLine(Separador + "\n");
-
                             ComprasConcluidas.Add(ListaDeCompras[CompraItem]);
 
                             Console.WriteLine("\n" + Separador);
