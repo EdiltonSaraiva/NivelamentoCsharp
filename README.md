@@ -44,7 +44,7 @@ Cada pasta representa um conceito de programação ou um projeto independente.
 |---------|-----------|--------|
 | ✔️ Calculadora Simples | Calculadora em console com as quatro operações básicas | Concluído |
 | ✔️ SwitchCase | Exercícios com a estrutura Switch Case que funcionam no console | Concluído |
-| ✔️ RepeticoesLoops | Exercícios com estruturas de repetição e loops que funcionam no console | Em andamento |
+| ✔️ RepeticoesLoops | Exercícios com estruturas de repetição e loops que funcionam no console | Concluído |
 
 ---
 
