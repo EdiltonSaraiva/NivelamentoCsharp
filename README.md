@@ -15,7 +15,7 @@ Os projetos abordam conceitos como:
 src/
 ├── CalculadoraSimples/
 ├── SwitchCase/
-├── RepeticoesLoops
+├── RepeticoesLoops/
 ├── ...
 ```
 
@@ -43,8 +43,8 @@ Cada pasta representa um conceito de programação ou um projeto independente.
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
 | ✔️ Calculadora Simples | Calculadora em console com as quatro operações básicas | Concluído |
-| ✔️ SwitchCase | Exercícios com a estrutura Switch Case | Concluído |
-| ✔️ RepeticoesLoops | Exercícios com estruturas de repetição e loops | Em andamento |
+| ✔️ SwitchCase | Exercícios com a estrutura Switch Case que funcionam no console | Concluído |
+| ✔️ RepeticoesLoops | Exercícios com estruturas de repetição e loops que funcionam no console | Em andamento |
 
 ---
 
