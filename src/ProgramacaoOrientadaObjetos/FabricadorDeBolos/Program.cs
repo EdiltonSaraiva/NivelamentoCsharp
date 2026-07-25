@@ -1,4 +1,4 @@
-﻿namespace LojaDeBolos;
+﻿namespace FabricadorDeBolos;
 
 public class Program
 {
