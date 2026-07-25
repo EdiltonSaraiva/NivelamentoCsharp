@@ -24,7 +24,7 @@ src/
 |   └── TabuadaInterativa/
 ├── ProgramacaoOrietadaObjetos/
 |   ├── CriadorDeCarros/
-|   └── LojaDeBolos/
+|   └── FabricadorDeBolos/
 ├── ...
 ```
 
