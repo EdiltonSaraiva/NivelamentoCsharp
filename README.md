@@ -23,9 +23,14 @@ src/
 |   ├── ListaDeComprasInteligente/
 |   └── TabuadaInterativa/
 ├── ProgramacaoOrietadaObjetos/
-|   ├── ContaBancaria/
 |   ├── CriadorDeCarros/
-|   └── FabricadorDeBolos/
+|   ├── FabricadorDeBolos/
+|   ├── GerenciadorDeNotas/
+|   ├── MediaNotas/
+|   ├── PagarUmProduto/
+|   ├── PessoaVirtual/
+|   ├── Produtos/
+|   └── SomaSubtrai/
 ├── ...
 ```
 
