@@ -29,6 +29,7 @@ src/
 |   ├── CriadorDeCarros/
 |   ├── FabricadorDeBolos/
 |   ├── GerenciadorDeNotas/
+|   ├── GerenciadorDePessoas/
 |   ├── MediaNotas/
 |   ├── PagarUmProduto/
 |   ├── PessoaVirtual/
