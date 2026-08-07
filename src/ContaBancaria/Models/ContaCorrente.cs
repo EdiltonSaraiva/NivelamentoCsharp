@@ -2,18 +2,8 @@
 
 public class ContaCorrente : Conta
 {
-    public override void Depositar(double valorDeposito)
+    public ContaCorrente(int numeroConta, string titularConta) 
+        : base(numeroConta, titularConta)
     {
-        throw new NotImplementedException();
-    }
-
-    public override void Sacar(double valorSaque)
-    {
-        throw new NotImplementedException();
-    }
-
-    public override void Transferir(double valorTransferencia, ContaCorrente contaDestino)
-    {
-        throw new NotImplementedException();
     }
 }
